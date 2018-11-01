@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\marti\desktop\projet\degreerace\degreerace\main.cpp(27): warning C4305: 'argument' : troncation de 'double' à 'float'
+  DegreeRace.vcxproj -> C:\Users\marti\Desktop\Projet\DegreeRace\Debug\DegreeRace.exe
