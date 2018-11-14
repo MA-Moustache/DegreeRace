@@ -8,6 +8,9 @@ public:
 	void setSprite(std::string type);
 	sf::Sprite* getSprite();
 	void move(int m);
+	int getX();
+	int getY();
+	void setPosition(int x, int y);
 	enum movement { LEFT = 1, RIGHT = 3, UP = 0, DOWN = 2 };
 	~Player();
 private:

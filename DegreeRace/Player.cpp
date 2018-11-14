@@ -48,3 +48,18 @@ void Player::move(int m)
 
 	this->getSprite()->setTextureRect(sf::IntRect(m * size_main_char, 0, size_main_char, size_main_char));
 }
+
+int Player::getX()
+{
+	return this->sprite->getPosition().x;
+}
+
+int Player::getY()
+{
+	return this->sprite->getPosition().y;
+}
+
+void Player::setPosition(int x, int y)
+{
+	this->sprite->setPosition(sf::Vector2f(x, y));
+}

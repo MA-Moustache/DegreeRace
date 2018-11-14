@@ -1,5 +1,3 @@
-﻿  Player.cpp
-  main.cpp
-d:\documents\cpp\degreerace\degreerace\main.cpp(30): warning C4305: 'argument' : troncation de 'double' à 'float'
-  Génération de code en cours...
+﻿  main.cpp
+d:\documents\cpp\degreerace\degreerace\main.cpp(27): warning C4305: 'argument' : troncation de 'double' à 'float'
   DegreeRace.vcxproj -> D:\Documents\CPP\DegreeRace\Debug\DegreeRace.exe
